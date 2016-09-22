@@ -1,0 +1,74 @@
+body{
+	font-family: 'Merriweather' sans-serif;
+}
+.menu{
+	background-color: #cc0000 !important; 
+}
+.logo{
+	color: #fff68f  !important;
+}
+.foto_fondo{
+	background-image:url("../img/creamy.jpg"); 
+	background-size: cover;
+	height: 300px;
+	background-position: center;
+	margin-top: -20px;
+}
+.jumbotron{
+	height: 300px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.jumbotron h1{
+	color: #fff68f !important;	
+}
+.jumbotron p{
+	color: #fff68f !important;	
+}
+.seccion_1 h1{
+	color: #fff68f;
+}
+.seccion_1 p{
+	color:#fff68f;
+}
+.seccion_2 {
+	background-color: #fff68f;
+	padding: 30px;
+	margin-top: -30px;
+}
+.seccion_2 h4{
+	color:#cc0000;
+	margin-top: 50px;
+}
+.seccion_2 p{
+	color:#cc0000;
+}
+.seccion_3{
+	background-color: red;
+	padding: 50px;
+}
+.seccion_3 h3{
+	color:#fff68f;
+}
+.seccion_3 p{
+	color: #fff68f;
+}
+.seccion_4{
+	padding:60px;
+	background-color:  #fff68f
+}
+.fa{
+	padding-left:120px;
+}
+.color_rojo{
+	color:red;
+}
+.color_rojo{
+	margin: 0 auto;
+}
+.footer{
+	background-color:red;
+	padding: 15px;
+}
+.footer p{
+	color:#fff68f;
+}
